@@ -32,4 +32,4 @@ const myFunction = function(){
     console.log("hello world")
 }
 
-console.log(typeof outsideTemp);
+console.log(typeof anotherId);
