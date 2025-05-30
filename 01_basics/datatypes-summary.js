@@ -57,4 +57,7 @@ let userOne = {
 
 let userTwo = userOne
 
-userTwo.email = "rishabh@"
+userTwo.email = "rishabh@google.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
